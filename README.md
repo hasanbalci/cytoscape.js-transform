@@ -3,7 +3,7 @@ cytoscape-transform
 ## Description
 This extension adds support for applying basic geometric transformations (flipping, rotation and scaling) to graph elements.
 
-Click [here](https://hasanbalci.github.io/cytoscape.js-transform/demo.html) for a demo.
+Click [here](https://sciluna.github.io/cytoscape.js-transform/demo.html) for a demo.
 
 https://github.com/user-attachments/assets/31e1edf8-d640-4f50-8bc5-e23a6a4a9040
 
