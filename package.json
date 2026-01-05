@@ -1,5 +1,5 @@
 {
-  "name": "cytoscape.js-transform",
+  "name": "cytoscape-transform",
   "version": "1.0.0",
   "description": "Apply basic transformations to graph elements",
   "main": "src/main.js",
